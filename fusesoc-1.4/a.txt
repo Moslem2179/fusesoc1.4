@@ -1,0 +1,11 @@
+[1;33mWARN:  Failed to register cores root 'Test is not a directory'[0m
+[1;33mWARN:  plusargs section is deprecated and will be removed in future versions. Please migrate to parameters in wb_sdram_ctrl[0m
+[1;33mWARN:  plusargs section is deprecated and will be removed in future versions. Please migrate to parameters in fifo-1.0[0m
+[1;33mWARN:  plusargs section is deprecated and will be removed in future versions. Please migrate to parameters in stream_utils-1.0[0m
+[1;33mWARN:  plusargs section is deprecated and will be removed in future versions. Please migrate to parameters in wb_intercon-1.0[0m
+[1;33mWARN:  plusargs section is deprecated and will be removed in future versions. Please migrate to parameters in wb_intercon[0m
+[1;33mWARN:  plusargs section is deprecated and will be removed in future versions. Please migrate to parameters in ram_wb[0m
+[1;33mWARN:  plusargs section is deprecated and will be removed in future versions. Please migrate to parameters in vlog_tb_utils[0m
+[1;33mWARN:  plusargs section is deprecated and will be removed in future versions. Please migrate to parameters in wb_altera_ddr_wrapper[0m
+[1;33mWARN:  plusargs section is deprecated and will be removed in future versions. Please migrate to parameters in elf-loader[0m
+Available systems:

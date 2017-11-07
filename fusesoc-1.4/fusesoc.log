@@ -1,0 +1,11 @@
+DEBUG:fusesoc.main:Command line arguments: ['/usr/local/bin/fusesoc', '--verbose', 'sim', '--force', 'mor1kx-generic', '--elf-load', '/home/abudhira/check']
+DEBUG:fusesoc.config:Looking for config files from /etc/fusesoc/fusesoc.conf:/home/abudhira/.config/fusesoc/fusesoc.conf:fusesoc.conf
+DEBUG:fusesoc.config:Found config files in /home/abudhira/.config/fusesoc/fusesoc.conf
+DEBUG:fusesoc.config:build_root=/home/abudhira/Downloads/fusesoc-1.4/build
+DEBUG:fusesoc.config:cache_root=/home/abudhira/.cache/fusesoc
+DEBUG:fusesoc.config:cores_root=Test:/home/abudhira/.local/share/fusesoc/fusesoc-cores
+DEBUG:fusesoc.config:Not defined
+DEBUG:fusesoc.coremanager:Checking for cores in Test
+DEBUG:fusesoc.main:Autodetected 64-bit mode
+DEBUG:fusesoc.main:Colorful output
+DEBUG:fusesoc.main:Verbose output
